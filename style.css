@@ -23,6 +23,7 @@ header {
 
 .logo {
     width: 120px;
+    length: 200px;
     border-radius: 12px;
     margin-bottom: 15px;
 }
