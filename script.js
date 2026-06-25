@@ -2,15 +2,6 @@
 
 console.log("Industrialist Review Website Loaded!");
 
-// Example: Gallery image click effect
-const galleryImages = document.querySelectorAll(".gallery img");
-
-galleryImages.forEach((image) => {
-    image.addEventListener("click", () => {
-        alert("Replace this with a lightbox or image viewer later.");
-    });
-}); // <-- THIS WAS MISSING
-
 const steps = document.querySelectorAll(".step-title");
 
 steps.forEach((step) => {
