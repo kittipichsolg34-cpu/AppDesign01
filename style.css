@@ -83,7 +83,7 @@ section {
 }
 
 .gallery img {
-    width: 100%;
+    width: 100px;
     height: 220px;
     object-fit: cover;
     border-radius: 12px;
